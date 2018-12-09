@@ -1,0 +1,19 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomingplus/posts.git"
+  },
+  "author": "xiaomingplus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaomingplus/posts/issues"
+  },
+  "homepage": "https://github.com/xiaomingplus/posts#readme"
+}
